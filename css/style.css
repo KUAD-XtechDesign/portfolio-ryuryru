@@ -135,11 +135,7 @@ footer {
 
 .top_eye_catch {
   height: 500px;
-<<<<<<< HEAD
   background-image: url(../images/1.jpg);
-=======
-  background-image: url(../images/af7f45ca6eb6e898407d3728f87a4fac.jpg);
->>>>>>> 5df518c5cf158da5b2c134d10761a57504378c61
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
@@ -152,7 +148,6 @@ footer {
 
 .report_eye_catch {
   height: 300px;
-<<<<<<< HEAD
   background-image: url(../images/2.jpg);
   background-size: cover;
   background-position: center center;
@@ -178,9 +173,6 @@ footer {
 .works_eye_catch {
   height: 300px;
   background-image: url(../images/2.jpg);
-=======
-  background-image: url(../images/af7f45ca6eb6e898407d3728f87a4fac.jpg);
->>>>>>> 5df518c5cf158da5b2c134d10761a57504378c61
   background-size: cover;
   background-position: center center;
   display: flex;
